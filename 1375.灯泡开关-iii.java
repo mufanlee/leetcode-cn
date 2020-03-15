@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=5353 lang=java
+ * @lc app=leetcode.cn id=1375 lang=java
  *
- * [5353] 灯泡开关 III
+ * [1375] 灯泡开关 III
  *
  * https://leetcode-cn.com/problems/bulb-switcher-iii/description/
  *

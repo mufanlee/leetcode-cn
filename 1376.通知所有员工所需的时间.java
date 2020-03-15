@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=5354 lang=java
+ * @lc app=leetcode.cn id=1376 lang=java
  *
- * [5354] 通知所有员工所需的时间
+ * [1376] 通知所有员工所需的时间
  *
  * https://leetcode-cn.com/problems/time-needed-to-inform-all-employees/description/
  *

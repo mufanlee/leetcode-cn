@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=5355 lang=java
+ * @lc app=leetcode.cn id=1377 lang=java
  *
- * [5355] T 秒后青蛙的位置
+ * [1377] T 秒后青蛙的位置
  *
  * https://leetcode-cn.com/problems/frog-position-after-t-seconds/description/
  *

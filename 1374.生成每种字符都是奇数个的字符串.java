@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=5352 lang=java
+ * @lc app=leetcode.cn id=1374 lang=java
  *
- * [5352] 生成每种字符都是奇数个的字符串
+ * [1374] 生成每种字符都是奇数个的字符串
  *
  * https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/
  *
